@@ -24,7 +24,7 @@
   "license": "thedersen.mit-license.org",
   "dependencies"  : {
     "backbone": ">=1.0.0",
-	"jquery": ">1.6.2",
-	"underscore": ">1.7.0"
+	"jquery": ">=1.6.2",
+	"underscore": ">=1.7.0"
   }
 }
