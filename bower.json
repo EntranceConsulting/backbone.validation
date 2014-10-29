@@ -1,0 +1,30 @@
+{
+  "name": "backbone.validation",
+  "version": "0.9.1",
+  "homepage": "https://github.com/thedersen/backbone.validation",
+  "authors": [
+    "thedersen"
+  ],
+  "description": "A validation plugin for Backbone.js that validates both your model as well as form input",
+  "main": "dist/backbone-validation.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "backbone",
+    "validation"
+  ],
+  "license": "thedersen.mit-license.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies"  : {
+    "backbone": ">=1.0.0",
+	"jquery": ">1.6.2",
+	"underscore": ">1.7.0"
+  },
+}
