@@ -14,6 +14,10 @@
     "backbone",
     "validation"
   ],
+  "ignore": [
+	"tests",
+	"*.jst"
+  ],
   "license": "thedersen.mit-license.org",
   "ignore": [
     "**/.*",
